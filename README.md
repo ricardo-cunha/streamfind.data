@@ -3,7 +3,7 @@
 R package with supporting data and other assets for the R package [StreamFind](https://github.com/odea-project/StreamFind).
 
 <p align="center">
-  <img src="inst/extdata/logos/logo_streamfind.png" width="50%" />
+  <img src="inst/extdata/logos/streamfind.png" width="50%" />
 </p>
 
 ## Installation
